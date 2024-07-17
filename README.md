@@ -16,7 +16,7 @@ Designed to highlight menu categories, individual items, and special offers.
 
 #### E-commerce Website
 
-Developd an engaging and attractive e-commerce website.
+Developed an engaging and attractive e-commerce website.
 Created a product landing page with detailed descriptions, high-quality images, and interactive elements.
 Focus on the user journey from product discovery to checkout, ensuring a seamless experience.
 Implement prototypes to demonstrate a working menu page.
